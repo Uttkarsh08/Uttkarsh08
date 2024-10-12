@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://twitter.com/uttkarsh_chugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uttkarsh_chugh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uttkarshchugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uttkarshchugh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/uttkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uttkarsh" height="30" width="40" /></a>
-<a href="https://instagram.com/uttk@rsh_chugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uttk@rsh_chugh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20869320/uttkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uttkarsh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/uttkarsh_chugh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uttk@rsh_chugh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/uttkarsh08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uttkarsh08" height="30" width="40" /></a>
 </p>
 
