@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Kotlin, Jetpack Compose**
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1EkqUxwjA8EyZqgXoktY736KJqD0hmKJV/view?usp=sharing](https://drive.google.com/file/d/1GSS5_IOTA1QazDRGgb_Q-U8ZgTYoXwkd/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EkqUxwjA8EyZqgXoktY736KJqD0hmKJV/view?usp=sharing](https://drive.google.com/file/d/1GSS5_IOTA1QazDRGgb_Q-U8ZgTYoXwkd/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
