@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👯 I’m looking to collaborate on **Firebase Authentication**
+- 👯 I’m looking to collaborate on **Microservices**
 
 - 🤝 I’m looking for help with **Custom Backend**
 
-- 💬 Ask me about **Kotlin, Jetpack Compose**
+- 💬 Ask me about **Kotlin, Jetpack Compose, SpringBoot**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EkqUxwjA8EyZqgXoktY736KJqD0hmKJV/view?usp=sharing](https://drive.google.com/file/d/1tgMl8IQUPYosIXODIYGA-vUWklGk0A-1/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1EkqUxwjA8EyZqgXoktY736KJqD0hmKJV/view?usp=sharing](https://drive.google.com/file/d/1tgMl8IQUPYosIXODIYGA-vUWklGk0A-1/view?usp=sharing](https://drive.google.com/file/d/1lixd0ECjmz3pW_cP2fPKfrgkgjB_8WRh/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
