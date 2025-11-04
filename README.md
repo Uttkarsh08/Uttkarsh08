@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uttkarsh Chugh</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttkarsh08&label=Profile%20views&color=0e75b6&style=flat" alt="uttkarsh08" /> </p>
 
