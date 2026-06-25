@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Kotlin, Jetpack Compose, MVVM, Coroutines, Firebase**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_8iQVTLftcV_E_h2ZLifbycgv4sfB1vR/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/160bUW3wJ0ZI2ce2CcXE1Th65TQ06qL7I/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
